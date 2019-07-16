@@ -1,0 +1,25 @@
+body {
+	background-color: #b2dfdb;
+}
+
+.tabs .tab a,
+.tabs .tab.disabled a,
+.tabs .tab.disabled a:hover {
+  color: #00695c;
+}
+
+.tabs .tab a {
+  color: #26a69a;
+}
+
+.tabs .tab a:focus, .tabs .tab a:focus.active {
+  background-color: rgba(0, 137, 123, 0.05);
+}
+
+.tabs .tab a:hover, .tabs .tab a.active {
+  color: #00695c;
+}
+
+.tabs .indicator {
+  background-color: #004d40;
+}
