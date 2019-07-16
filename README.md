@@ -1,1 +1,2 @@
-# donation-platform
+# Donation-platform
+Software Engineering assignment
